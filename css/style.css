@@ -255,4 +255,14 @@
             border: 1px solid #EAEAEA;
             color: #171717;
         }
+        
+        .notif-success h3 {
+            color: #1B2690;
+            font-family: 'Lora';
+            font-weight: bold;
+        }
+        
+        .notif-success img {
+            width: 35%;
+        }
         /* Cart End */
