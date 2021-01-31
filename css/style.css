@@ -289,13 +289,7 @@
         
         .img-header img {
             width: 100%;
-            height: 80%;
-        }
-        
-        .img-second,
-        .img-threed {
-            width: 80%;
-            height: 20%;
+            height: 320px;
         }
         
         .article {
@@ -327,7 +321,16 @@
             opacity: 1;
         }
         
-        .figure .figure-caption a {
+        .figure-caption a {
             text-decoration: none;
+        }
+        
+        .card-blog {
+            border: 0px;
+        }
+        
+        .card-blog h3 {
+            font-family: 'Lora';
+            font-weight: 600;
         }
         /* Blog End */
