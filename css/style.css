@@ -333,4 +333,14 @@
             font-family: 'Lora';
             font-weight: 600;
         }
+        
+        .bg-login-admin1 {
+            background-color: #1abc9c;
+        }
+        
+        .bg-login-admin {
+            height: 100%;
+            width: 470px;
+            background-color: #1abc9c;
+        }
         /* Blog End */
