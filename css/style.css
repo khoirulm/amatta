@@ -339,3 +339,10 @@
             background-color: #1abc9c;
         }
         /* Login End */
+        /* About*/
+        
+        .body-about .figure img {
+            width: 30%;
+            height: 30%;
+        }
+        /* About End */
