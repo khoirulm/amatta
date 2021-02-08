@@ -345,4 +345,14 @@
             width: 30%;
             height: 30%;
         }
+        
+        .figure-gambar img {
+            width: 200px;
+            height: 100px;
+        }
+        
+        .figure-gambar-tentang img {
+            width: 200px;
+            height: 50px;
+        }
         /* About End */
