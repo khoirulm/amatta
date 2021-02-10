@@ -329,14 +329,13 @@
         /* Blog End */
         /* Login */
         
-        .bg-login-admin1 {
-            background-color: #1abc9c;
+        .bg-login1 {
+            background-color: transparent;
         }
         
-        .bg-login-admin {
-            height: 100%;
-            width: 470px;
-            background-color: #1abc9c;
+        .bg-login2 {
+            height: 50%;
+            width: 300px;
         }
         /* Login End */
         /* About*/
